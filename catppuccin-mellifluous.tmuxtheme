@@ -1,0 +1,17 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Mellifluous
+thm_bg="#1a1a1a"
+thm_fg="#dadada"
+thm_cyan="#74a39e"
+thm_black="#3a3a3a"
+thm_gray="#5b5b5b"
+thm_magenta="#9c6995"
+thm_pink="#d29393"
+thm_red="#c95954"
+thm_green="#b3b393"
+thm_yellow="#cbaa89"
+thm_blue="#a8a1be"
+thm_orange="#a6794c"
+thm_black4="#5b5b5b"
